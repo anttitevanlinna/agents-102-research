@@ -10,7 +10,7 @@ This repository is a **public knowledge base**, maintained by Bosser Oy and inte
 
 ## Contribution Terms
 
-By contributing into `continuous-research/` — via pull request, direct push (for trusted research agents and maintainers), or any other means — you grant **Bosser Oy and the community** a perpetual, non-exclusive, royalty-free license to use, adapt, redistribute, and build upon your contribution as part of the public research base. You retain authorship attribution where applicable.
+By contributing to this repository — via pull request, direct push (for trusted research agents and maintainers), or any other means — you grant **Bosser Oy and the community** a perpetual, non-exclusive, royalty-free license to use, adapt, redistribute, and build upon your contribution as part of the public research base. You retain authorship attribution where applicable.
 
 Contributions must honour the research guidelines in [`CLAUDE.md`](CLAUDE.md) and [`research-rules.md`](research-rules.md) — the evidence ladder, source-type classification, freshness rule, obfuscation rule for user signals, and the three admission gates per finding. Contributions that ignore those rules will be declined or edited to fit.
 
